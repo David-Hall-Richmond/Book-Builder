@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1480381596 source:c:\users\david\documents\cs333 projects\book builder\indexconstants.cpp
+
+1446667744 source:c:\users\david\documents\cs333 projects\book builder\main.cpp
+	<iostream>
+
+1481237106 source:c:\users\david\documents\cs333 projects\book builder\book.cpp
+	"Book.h"
+	<iostream>
+	<cstring>
+
+1481213710 c:\users\david\documents\cs333 projects\book builder\book.h
+	<vector>
+	"Page.h"
+	"Index.h"
+
+1480991562 c:\users\david\documents\cs333 projects\book builder\page.h
+	<string>
+	<iostream>
+
+1481238386 c:\users\david\documents\cs333 projects\book builder\index.h
+	"IndexItem.h"
+	<sstream>
+	<array>
+
+1481231492 c:\users\david\documents\cs333 projects\book builder\indexitem.h
+	"indexConstants.h"
+	<string>
+	<sstream>
+	<iostream>
+
+1480381611 c:\users\david\documents\cs333 projects\book builder\indexconstants.h
+
+1480991562 source:c:\users\david\documents\cs333 projects\book builder\page.cpp
+	"Page.h"
+	<sstream>
+	<iomanip>
+	<iostream>
+	<fstream>
+
+1481215181 source:c:\users\david\documents\cs333 projects\book builder\bookmaker.cpp
+	<iostream>
+	<fstream>
+	"Book.h"
+	"indexConstants.h"
+
+1481236988 source:c:\users\david\documents\cs333 projects\book builder\index.cpp
+	"Index.h"
+	"IndexItem.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+
+1481237191 source:c:\users\david\documents\cs333 projects\book builder\indexitem.cpp
+	"indexItem.h"
+	<iostream>
+	<iomanip>
+	<string>
+	<sstream>
+
